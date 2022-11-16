@@ -59,3 +59,4 @@ variables for indirectly deployment.
 ## ☆Thanks To☆
 - `Danish` - *For the Base Repo*
 - `Zylern`- *For their code*
+# [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/naIyAl?referralCode=lqWwT_)
